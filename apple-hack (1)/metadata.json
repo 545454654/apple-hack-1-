@@ -1,0 +1,6 @@
+{
+  "name": "Apple Hack",
+  "description": "A secure predictive helper and distribution simulator for the Apple of Fortune game, featuring a real-time database schema, interactive loading modules, and a cyberpunk neon interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
