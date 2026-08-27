@@ -1,0 +1,6 @@
+{
+  "name": "Apple Fortune Predictor",
+  "description": "سكربت Apple Hack لمنصة Greenbet فقط مع توليد وتوزيع مسار الأمان تدريجياً عبر قاعدة بيانات Firebase RTDB",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
