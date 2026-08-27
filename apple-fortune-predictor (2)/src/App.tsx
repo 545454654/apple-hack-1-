@@ -24,7 +24,7 @@ const INITIAL_LOADING_STEPS: LoadingStep[] = [
   {
     id: 'generate',
     title: 'توليد مصفوفة الأمان 10×5 وتوزيع الصعوبة',
-    detail: 'تحديد مسار التفاح الآمن والتالف من الصف 0 إلى 9 لمنصة Dream Bet',
+    detail: 'تحديد مسار التفاح الآمن والتالف من الصف 0 إلى 9 لمنصة Greenbet',
     status: 'pending',
   },
   {
